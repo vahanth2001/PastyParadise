@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b914d406.css",
+    "main.js": "/static/js/main.2b21ed41.js",
+    "static/js/787.0f5431d7.chunk.js": "/static/js/787.0f5431d7.chunk.js",
+    "static/media/2023-05-02.jpg": "/static/media/2023-05-02.6334df2241fd6db0b9e7.jpg",
+    "static/media/Emma's family feasts_ Cornish pasties.jpeg": "/static/media/Emma's family feasts_ Cornish pasties.abd958e2181c9441e1d4.jpeg",
+    "index.html": "/index.html",
+    "main.b914d406.css.map": "/static/css/main.b914d406.css.map",
+    "main.2b21ed41.js.map": "/static/js/main.2b21ed41.js.map",
+    "787.0f5431d7.chunk.js.map": "/static/js/787.0f5431d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b914d406.css",
+    "static/js/main.2b21ed41.js"
+  ]
+}
