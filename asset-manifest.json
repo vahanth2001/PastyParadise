@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6257ce74.css",
-    "main.js": "/static/js/main.1135f563.js",
+    "main.css": "/static/css/main.260d5f33.css",
+    "main.js": "/static/js/main.34774df3.js",
     "static/js/787.0f5431d7.chunk.js": "/static/js/787.0f5431d7.chunk.js",
     "static/media/351179490_225605466922342__n.jpg": "/static/media/351179490_225605466922342_5637203866612877333_n.ba0b7ccd760c17eef0c9.jpg",
     "static/media/Emma's family feasts_ Cornish pasties.jpeg": "/static/media/Emma's family feasts_ Cornish pasties.abd958e2181c9441e1d4.jpeg",
     "static/media/Premium Photo _ Taiwan milk tea with bubble.jpeg": "/static/media/Premium Photo _ Taiwan milk tea with bubble.2f771b92c0b8cb020b4b.jpeg",
     "static/media/Rocked It.jpeg": "/static/media/Rocked It.72db196ffeb18bf544d1.jpeg",
     "index.html": "/index.html",
-    "main.6257ce74.css.map": "/static/css/main.6257ce74.css.map",
-    "main.1135f563.js.map": "/static/js/main.1135f563.js.map",
+    "main.260d5f33.css.map": "/static/css/main.260d5f33.css.map",
+    "main.34774df3.js.map": "/static/js/main.34774df3.js.map",
     "787.0f5431d7.chunk.js.map": "/static/js/787.0f5431d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6257ce74.css",
-    "static/js/main.1135f563.js"
+    "static/css/main.260d5f33.css",
+    "static/js/main.34774df3.js"
   ]
 }
